@@ -52,3 +52,5 @@ function M.Scale(size, minmax, interpolation)
     end
   end
 end
+
+return M
